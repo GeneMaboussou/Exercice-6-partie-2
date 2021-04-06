@@ -1,0 +1,10 @@
+
+/*Exercice 6*/
+
+#background{
+    background-image: url("unprinceanewyork.jpg");
+    width: 640px;
+    height: 360px;
+    color: gainsboro;
+    font-size: 30px;
+}
